@@ -3,5 +3,10 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+
+}
+.main-header{
+    background-color: #a76e66b0;
     
 }
